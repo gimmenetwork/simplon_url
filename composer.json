@@ -1,6 +1,6 @@
 {
-  "name": "simplon/url",
-  "description": "Simple URL",
+  "name": "gimmenetwork/simplon_url",
+  "description": "[FORK] Simple URL",
   "homepage": "https://github.com/fightbulc/simplon_url",
   "type": "library",
   "keywords": [
